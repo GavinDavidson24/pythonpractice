@@ -39,7 +39,7 @@ twoNumbas(420, 69)
 
 
 def madLibs(a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r):
-    print("while i've stayed at home, i've practiced the" + a + "for" + b + "hours every" + c + ". My favorite key signature to play and practice in is" + d + e + ". It has" + f + "flats and" + g + "sharps. I like this key signature because it is" + h + "and" + i + ". I've also gotten awesome at counting time signatures. The time signature I love is" + j + ", because it is" + k + "to count. One instrument I want to learn how to play while I'm at home is" + l + ", because it is" + m + "and sounds like a" + n + ". My" + o + "likes it when I play" + p + ", and always gives me a round of applause after my perfornances! When I return to school, my teacher will be" + q + "of how great I am at playing my instrument. My teacher might even think I sould like" + r + "!")
+    print(" while i've stayed at home, i've practiced the" + a + " for" + b + " hours every" + c + ". My favorite key signature to play and practice in is" + d + e + ". It has" + f + " flats and" + g + " sharps. I like this key signature because it is" + h + " and" + i + ". I've also gotten awesome at counting time signatures. The time signature I love is" + j + ", because it is" + k + " to count. One instrument I want to learn how to play while I'm at home is" + l + ", because it is" + m + " and sounds like a" + n + ". My" + o + " likes it when I play" + p + ", and always gives me a round of applause after my perfornances! When I return to school, my teacher will be" + q + " of how great I am at playing my instrument. My teacher might even think I sould like" + r + "!")
 
 
-madLibs("flute", "25", "sunday", "c", "minor", "17", "1" , "cool", )
+madLibs(" flute", " 25", " sunday", " c", " minor", " 17", " 1" , " cool", " big", " 1/7", " slow", " sax", " flatulent", " fart", " dog", " fur elise", " confused", " kanye west")
